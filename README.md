@@ -1,4 +1,5 @@
 # Sample NodeJS application for VSTS and TFS docs
+# This repository is built using VSTS.
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/vsts/pipelines/languages/javascript).
 
